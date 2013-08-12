@@ -1,4 +1,15 @@
-coa-trade
+ca-trade
 =========
 
-put the data about the trading information 
+這裡目前存放農業相關資料，資料來源由農委會網站取得
+
+sub-namespace
+=========
+
+trade
+=========
+為歷年來與台灣農業貿易的僅出口國家排行及貿易金額
+
+self-sufficiency
+=========
+為歷年來台灣各種農產品的糧食自給率，分別包含熱量及價格兩種計算方式
