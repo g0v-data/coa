@@ -1,6 +1,8 @@
 ca-trade
 =========
 
+[![Join the chat at https://gitter.im/g0v-data/coa](https://badges.gitter.im/g0v-data/coa.svg)](https://gitter.im/g0v-data/coa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 這裡目前存放農業相關資料，資料來源由農委會網站取得
 
 sub-namespace
